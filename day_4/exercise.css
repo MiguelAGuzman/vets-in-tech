@@ -1,13 +1,37 @@
+span {
+    display: block;
+    text-align: center;
+    border: 1px solid black;
+    padding: 5px;
+}
+
 a {
     font-family: serif;
 }
 
 div {
-    border-color: black 2px;
     display: inline-block;
+    height: 800px;
+    width: 500px;
+    padding: 5px;
+    border: 1px solid black;
+}
+
+h1 {
+    font-family: sans-serif;
+    text-align: center;
 }
 
 img {
+    margin-left: 15%;
     height: 200px;
     width: 300px;
+}
+
+ul {
+    list-style: none;
+}
+
+li {
+    align-items: center;
 }
