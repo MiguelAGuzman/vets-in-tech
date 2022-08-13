@@ -1,0 +1,13 @@
+a {
+    font-family: serif;
+}
+
+div {
+    border-color: black 2px;
+    display: inline-block;
+}
+
+img {
+    height: 200px;
+    width: 300px;
+}
