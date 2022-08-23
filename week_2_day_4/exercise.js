@@ -4,8 +4,8 @@
 document.getElementById('container').style.display = 'flex';
 document.getElementById('container').style.justifyContent = 'space-evenly';
 document.getElementById('container').style.textAlign = 'center';
-document.getElementById('container').style.textDecorationColor = 'black';
 document.getElementById('A').style.backgroundColor = 'red';
+
 document.getElementById('B').style.backgroundColor = 'green';
 document.getElementById('C').style.backgroundColor = 'yellow';
 
